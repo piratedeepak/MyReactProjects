@@ -1,8 +1,0 @@
-{
-  "hosting": {
-    "public": "build",
-    "site": "githubsearchusingreact",
-
-    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
-  }
-}
