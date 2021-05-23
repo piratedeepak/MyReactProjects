@@ -4,3 +4,8 @@
 
 <h3> firebase config </h3>
 <p> In the Config folder </p>
+
+## demo cred
+
+<p>username : abc@test.in</p>
+<p>pass : 12345678</p>
