@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "githubsearchusingreact",
+    "public": "public",
+    ...
+  }
+}
